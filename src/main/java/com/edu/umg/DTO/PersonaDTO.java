@@ -6,7 +6,7 @@ package com.edu.umg.DTO;
 
 /**
  *
- * @author Wilson Aguin
+ * @author Caste
  */
 public class PersonaDTO {
     private int idPersona;
